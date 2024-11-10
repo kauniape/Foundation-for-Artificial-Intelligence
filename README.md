@@ -5,8 +5,8 @@ Assignment 1: Foundation for Artificial Intelligence Artificial Intelligence Tra
 ## Soal Nomor 2 (I Want to Withdraw All My Savings in Cash!)
 Melakukan distribusi uang dalam pecahan yang tersedia, yaitu uang kertas dan koin, berdasarkan jumlah yang dimasukan.
 untuk langkah yang dilakukan seperti berikut:
-1. Memeriksa batas maksimum dan input negatif, Fungsi mengecek apakah jumlah savings lebih dari 1 miliyar (batas maksimum) atau kurang dari 0. Jika melebihi atau negatif, fungsi menampilkan pesan eror dan berhenti.
-2. Menghitung jumlah tiap pecahan uang kertas dan koin, jika savings valid, maka fungsi membagi jumlah tersebut kedalam pecahan uang kertas (100 ribu, 50 ribu, dll) dan koin (1000, 500, dll), dimulai dari pecahan terbesar hingga terkecil. lalu menyimpan jumlah setiap pecahan yang dibutuhkan kedalam result.
+1. Memeriksa batas maksimum dan input negatif dengan fungsi untuk mengecek apakah jumlah savings lebih dari 1 miliyar (batas maksimum) atau kurang dari 0. Jika melebihi atau negatif, fungsi menampilkan pesan eror dan berhenti.
+2. Menghitung jumlah tiap pecahan uang kertas dan koin jika savings = valid maka fungsi akan membagi jumlah tersebut kedalam pecahan uang kertas (100 ribu, 50 ribu, dll) dan koin (1000, 500, dll), dimulai dari pecahan terbesar hingga terkecil. lalu menyimpan jumlah setiap pecahan yang dibutuhkan kedalam result.
 3. Menghitung dan menampilkan total, menghitung total jumlah uang kertas dan koin yang digunakan, lalu menampilkan hasil distribusi pecahan, total uang kertas, total koin, dan sisa saldo yang tidak bisa dicairkan (jika ada).
 4. Jika input bukan integer maka akan menampilkan pesan error.
 
