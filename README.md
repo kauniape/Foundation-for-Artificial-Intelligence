@@ -16,5 +16,5 @@ untuk langkah yang dilakukan seperti berikut:
 - Libraries: pandas, matplotlib (pyplot), seaborn, numpy, scipy.stats (chi2_contingency).
 
 
-Background
+Background:
 HR professionals generally lag behind with respect to analytics and data visualization competency. Thus, Dr. Carla Patalano set out to create their own HR-related dataset, which is used in one of the graduate MSHRM courses called HR Metrics and Analytics, at New England College of Business. He created this data set.
